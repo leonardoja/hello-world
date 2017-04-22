@@ -1,5 +1,5 @@
 # hello-world
-Isto é um repositório. Edit-Readme
+Isto é um repositório.
 
 
 Aprendendo a utilizar o GitHub.
